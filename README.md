@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -13,4 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
