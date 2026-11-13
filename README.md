@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
