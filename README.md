@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1603-design-parking-system) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1672-richest-customer-wealth) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
