@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1470-shuffle-the-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/debobratadey002/MY_LEETCODE/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
