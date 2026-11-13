@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1512-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/debobratadey002/MY_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
